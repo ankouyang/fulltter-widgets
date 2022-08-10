@@ -28,7 +28,7 @@ class TablePage extends StatelessWidget {
            },
           //添加table的边框
           border:TableBorder.all(
-            color: Colors.red,
+            color: Colors.black,
             width: 1.0,
           ),
           // 处理table row里面填充对应列
